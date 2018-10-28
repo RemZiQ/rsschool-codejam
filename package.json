@@ -1,0 +1,28 @@
+{
+  "name": "sumOfOthersTest",
+  "version": "1.0.0",
+  "eslintConfig": {
+    "env": {
+        "mocha": true,
+        "node": true,
+        "browser": true
+    }
+},
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "lint": "eslint",
+    "test": "mocha"
+  }
+}
+

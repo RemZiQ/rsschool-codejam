@@ -1,0 +1,4 @@
+*.eslintrc 
+.vs/ 
+bin/
+obj/
